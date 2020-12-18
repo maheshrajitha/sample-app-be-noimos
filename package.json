@@ -1,0 +1,23 @@
+{
+  "name": "csv-project-noimos",
+  "version": "1.0.0",
+  "description": "sample project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Mahesh",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "cookie-parser": "^1.4.5",
+    "csvtojson": "^2.0.10",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.0",
+    "multiple-redis": "^2.0.0",
+    "mysql": "^2.18.1",
+    "redis": "^3.0.2",
+    "uuid": "^8.3.2"
+  }
+}
