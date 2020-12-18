@@ -1,3 +1,3 @@
 node_modules
-app/service/csvfiles/*
+app/service/csvfiles/*.csv
 dev.env
